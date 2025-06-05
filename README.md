@@ -15,6 +15,7 @@ This repository contains the example code material for the NERSC training event:
 ## Links
 
 Slides: https://drive.google.com/drive/folders/1YmbJso3rjaiuP8DcE0ItxSJTSq3DTtU9?usp=sharing
+Video recordings: https://youtube.com/playlist?list=PL20S5EeApOStt1JLdLB9ZvNCo8BeRrDLD&si=GWv4bzxXNFWpz1N0
 
 Join the Slack workspace: https://join.slack.com/t/nersc-dl-tutorial/shared_invite/zt-30e2iiexd-C8pUrroqeA7O3cD5~AsdtQ
 
